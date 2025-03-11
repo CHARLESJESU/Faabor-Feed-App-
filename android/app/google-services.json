@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "356479446244",
+    "firebase_url": "https://gitflutterpro-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gitflutterpro",
+    "storage_bucket": "gitflutterpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356479446244:android:cd515805b5087ab24a50f1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_otp_module"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfz2JhJw8iNB9ahTLQjBRj5gApV6HMkck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
